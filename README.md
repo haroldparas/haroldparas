@@ -40,7 +40,7 @@ I am a **Junior System Analyst** at **Royce Hotel and Casino** and a passionate 
 ---
 
 ### 📈 GitHub Stats
-![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent)
+![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldparas&show_icons=true&theme=transparent)
 
 ---
 
