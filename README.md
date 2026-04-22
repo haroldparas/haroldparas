@@ -1,4 +1,4 @@
-# Hi there, I'm Harold Paras! 👋
+# I'm Harold Paras! 👋
 
 I am a **Junior System Analyst** at **Royce Hotel and Casino** and a passionate **Freelance Web Developer**. I bridge the gap between complex system analysis and high-performance web development, specializing in building scalable applications using the MERN stack and PHP.
 
