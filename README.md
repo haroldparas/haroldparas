@@ -4,7 +4,7 @@ I am a **Junior System Analyst** at **Royce Hotel and Casino** and a passionate 
 
 - I’m currently working on in-house systems at Royce Hotel and Casino.
 - I’m currently deep-diving into **React 19** and **Next.js** for my latest projects.
-- Ask me about **PHP (CodeIgniter)**, **MERN Stack**, or **System Analysis**.
+- Ask me about **PHP (CodeIgniter,Laravel)**, **MERN Stack**.
 - How to reach me: [haroldparas29@gmail.com](mailto:haroldparas29@gmail.com)
 
 ---
