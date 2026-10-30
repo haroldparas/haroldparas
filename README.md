@@ -43,14 +43,6 @@ I am an **M.I.S. System Supervisor** at **Royce Hotel and Casino** and a passion
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroldparas&show_icons=true&theme=dark" alt="Harold's GitHub Stats" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 - **Portfolio:** [haroldparas.vercel.app](https://haroldparas.vercel.app)
