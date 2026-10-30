@@ -1,13 +1,12 @@
 # I'm Harold Paras! 👋
 
-I am an **M.I.S. System Supervisor** at **Royce Hotel and Casino** and a passionate **Freelance Web Developer**. I bridge the gap between enterprise infrastructure, system analysis, and high-performance web development, specializing in building scalable applications using modern front-end frameworks, PHP, and robust databases.
+I am an **M.I.S. System Supervisor** and **Full-Stack Web Developer** with over 2 years of professional experience specializing in enterprise internal web applications, infrastructure administration, and automated workflows. I bridge the gap between enterprise infrastructure and high-performance web development, building secure, scalable systems using PHP (CodeIgniter, Laravel), modern front-end frameworks (React, Next.js, Vue.js, TypeScript, Tailwind CSS), and robust databases (MySQL, MS SQL, PostgreSQL).
 
-- 🏢 I’m currently leading full-stack web applications and IT infrastructure operations at **Royce Hotel and Casino**.
+- 🏢 I’m currently leading full-stack web applications, internal UI support, and IT infrastructure operations at **Royce Hotel & Casino**.
 - 🚀 I’m currently deep-diving into **React 19** and **Next.js** for my latest web projects.
 - 💬 Ask me about **PHP (CodeIgniter, Laravel)**, **MERN Stack**, **Vue.js**, and **TypeScript**.
-- 📫 How to reach me: [haroldparas29@gmail.com](mailto:haroldparas29@gmail.com)
 - 🌐 Portfolio: [haroldparas.vercel.app](https://haroldparas.vercel.app)
-
+- 📫 How to reach me: [haroldparas29@gmail.com](mailto:haroldparas29@gmail.com)
 ---
 
 ### 🛠 My Tech Stack
