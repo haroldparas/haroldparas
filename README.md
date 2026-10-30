@@ -46,7 +46,9 @@ I am an **M.I.S. System Supervisor** at **Royce Hotel and Casino** and a passion
 ---
 
 ### 📈 GitHub Stats
-![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldparas&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haroldparas&show_icons=true&theme=dark" alt="Harold's GitHub Stats" />
+</p>
 
 ---
 
